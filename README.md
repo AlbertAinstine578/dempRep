@@ -1,3 +1,3 @@
 # dempRep
 first git repository
-AUthor - Albert
+AUthor - Albert (local)
